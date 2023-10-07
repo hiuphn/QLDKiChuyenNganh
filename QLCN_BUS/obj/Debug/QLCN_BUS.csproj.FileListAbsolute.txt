@@ -1,0 +1,15 @@
+D:\C#\TrenLop\BaiTapBuoi7\QLCN_BUS\bin\Debug\QLCN_BUS.dll.config
+D:\C#\TrenLop\BaiTapBuoi7\QLCN_BUS\bin\Debug\QLCN_BUS.dll
+D:\C#\TrenLop\BaiTapBuoi7\QLCN_BUS\bin\Debug\QLCN_BUS.pdb
+D:\C#\TrenLop\BaiTapBuoi7\QLCN_BUS\bin\Debug\EntityFramework.dll
+D:\C#\TrenLop\BaiTapBuoi7\QLCN_BUS\bin\Debug\EntityFramework.SqlServer.dll
+D:\C#\TrenLop\BaiTapBuoi7\QLCN_BUS\bin\Debug\QLCN_DAL.dll
+D:\C#\TrenLop\BaiTapBuoi7\QLCN_BUS\bin\Debug\QLCN_DAL.pdb
+D:\C#\TrenLop\BaiTapBuoi7\QLCN_BUS\bin\Debug\QLCN_DAL.dll.config
+D:\C#\TrenLop\BaiTapBuoi7\QLCN_BUS\bin\Debug\EntityFramework.xml
+D:\C#\TrenLop\BaiTapBuoi7\QLCN_BUS\bin\Debug\EntityFramework.SqlServer.xml
+D:\C#\TrenLop\BaiTapBuoi7\QLCN_BUS\obj\Debug\QLCN_BUS.csproj.AssemblyReference.cache
+D:\C#\TrenLop\BaiTapBuoi7\QLCN_BUS\obj\Debug\QLCN_BUS.csproj.CoreCompileInputs.cache
+D:\C#\TrenLop\BaiTapBuoi7\QLCN_BUS\obj\Debug\QLCN_BUS.csproj.CopyComplete
+D:\C#\TrenLop\BaiTapBuoi7\QLCN_BUS\obj\Debug\QLCN_BUS.dll
+D:\C#\TrenLop\BaiTapBuoi7\QLCN_BUS\obj\Debug\QLCN_BUS.pdb

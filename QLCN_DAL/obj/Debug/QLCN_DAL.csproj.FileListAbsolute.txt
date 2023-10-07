@@ -1,0 +1,12 @@
+D:\C#\TrenLop\BaiTapBuoi7\QLCN_DAL\bin\Debug\QLCN_DAL.dll.config
+D:\C#\TrenLop\BaiTapBuoi7\QLCN_DAL\bin\Debug\QLCN_DAL.dll
+D:\C#\TrenLop\BaiTapBuoi7\QLCN_DAL\bin\Debug\QLCN_DAL.pdb
+D:\C#\TrenLop\BaiTapBuoi7\QLCN_DAL\bin\Debug\EntityFramework.dll
+D:\C#\TrenLop\BaiTapBuoi7\QLCN_DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\C#\TrenLop\BaiTapBuoi7\QLCN_DAL\bin\Debug\EntityFramework.xml
+D:\C#\TrenLop\BaiTapBuoi7\QLCN_DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\C#\TrenLop\BaiTapBuoi7\QLCN_DAL\obj\Debug\QLCN_DAL.csproj.AssemblyReference.cache
+D:\C#\TrenLop\BaiTapBuoi7\QLCN_DAL\obj\Debug\QLCN_DAL.csproj.CoreCompileInputs.cache
+D:\C#\TrenLop\BaiTapBuoi7\QLCN_DAL\obj\Debug\QLCN_DAL.csproj.CopyComplete
+D:\C#\TrenLop\BaiTapBuoi7\QLCN_DAL\obj\Debug\QLCN_DAL.dll
+D:\C#\TrenLop\BaiTapBuoi7\QLCN_DAL\obj\Debug\QLCN_DAL.pdb
